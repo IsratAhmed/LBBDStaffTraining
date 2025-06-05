@@ -1,3 +1,5 @@
 # LBBDStaffTraining
 
-Health, Safety and Wellbeing awareness
+- Health, Safety and Wellbeing Awareness
+  
+- Introduction to Equalities
