@@ -7,3 +7,5 @@
 - Trans and Non-Binary Awareness
 - Safeguarding Adults
 - Safeguarding Children
+- Bullying and Harassment
+- Bullying and Harassment: Effective Interventions 
