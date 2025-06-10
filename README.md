@@ -4,4 +4,6 @@
 - Mental Health Awareness
 - Introduction to Equalities
 - Sexual Orientation
-- Trans and Non-Binary Awareness 
+- Trans and Non-Binary Awareness
+- Safeguarding Adults
+- Safeguarding Children
