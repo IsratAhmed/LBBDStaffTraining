@@ -1,5 +1,6 @@
 # LBBD Staff Training Certification 
 
+- Data Protection and Cyber Security Training 
 - Health, Safety and Wellbeing Awareness
 - Mental Health Awareness
 - Introduction to Equalities
